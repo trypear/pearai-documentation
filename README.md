@@ -11,3 +11,5 @@ The reason we need a separate repository is because when included in the landing
 2. `npm install`
 3. `npm run build`
 4. `npm run serve`
+
+To run it with hot reload: `npm run start`
