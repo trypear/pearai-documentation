@@ -37,6 +37,6 @@ keywords: [quickstart, start, install, vscode, jetbrains]
 
    2. `CMD+L` (PearAI chat)
       <video width="400" controls>
-         <source src="docs/videos/cmd+l-documentation.webm" type="video/webm" />
+         <source src="/docs/videos/cmd+l-documentation.webm" type="video/webm" />
          Your browser does not support the video tag.
       </video>
