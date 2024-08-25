@@ -11,7 +11,7 @@ Explore this collection of demo videos showcasing various use cases of PearAI. E
 ## Quick Onboarding & Documentation Creation
 
 <video width='100%' controls>
-  <source src="/videos/demo.webm" type="video/webm" />
+  <source src="videos/demo.webm" type="video/webm" />
   Your browser does not support the video tag.
 </video>
 
