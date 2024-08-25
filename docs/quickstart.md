@@ -17,7 +17,7 @@ keywords: [quickstart, start, install, vscode, jetbrains]
    :::
 
    <video width="400" controls>
-      <source src="/videos/pearai-onboard-login.webm" type="video/webm" />
+      <source src="/static/videos/pearai-onboard-login.webm" type="video/webm" />
       Your browser does not support the video tag.
    </video>
 
@@ -25,18 +25,18 @@ keywords: [quickstart, start, install, vscode, jetbrains]
 
 4. Optional: put PearAI in your path so you can open within directories with `pearai .`
 
-   <img src="/img/pearai-path-dark.webp" alt="pearai path" width="400"/>
+   <img src="/static/img/pearai-path-dark.webp" alt="pearai path" width="400"/>
 
 5. Try out the 2 core features below!
 
    1. `CMD+I` (Inline code editing)
       <video width="400" controls>
-         <source src="/videos/cmd+i-documentation.webm" type="video/webm" />
+         <source src="/static/videos/cmd+i-documentation.webm" type="video/webm" />
          Your browser does not support the video tag.
       </video>
 
    2. `CMD+L` (PearAI chat)
       <video width="400" controls>
-         <source src="/videos/cmd+l-documentation.webm" type="video/webm" />
+         <source src="/static/videos/cmd+l-documentation.webm" type="video/webm" />
          Your browser does not support the video tag.
       </video>
