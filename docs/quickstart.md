@@ -21,13 +21,11 @@ keywords: [quickstart, start, install, vscode, jetbrains]
       Your browser does not support the video tag.
    </video>
 
-3. You're now ready to start prompting!
-
-4. Optional: put PearAI in your path so you can open within directories with `pearai .`
+3. Optional: put PearAI in your path so you can open within directories with `pearai .`
 
    <img src="/docs/img/pearai-path-dark.webp" alt="pearai path" width="400"/>
 
-5. Try out the 2 core features below!
+4. You're now ready to start prompting! Try out the 2 core features below:
 
    1. `CMD+I` (Inline code editing)
       <video width="400" controls>
