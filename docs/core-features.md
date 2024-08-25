@@ -8,7 +8,7 @@ keywords: [core-features, intro, pearai, continue, cursor, autopilot, chatgpt]
 
 - `CMD+I` - Inline code editing: PearAI will make changes to your current file and display diffs.
 
-- `CMD+L` - New chat (if you have code selected, it also brings it to the chat).
+- `CMD+L` - New chat (if you have code selected, it also adds it to the chat).
 - `CMD+SHIFT+L` - Append to current chat.
 
 - **Address sign (@) commands**
