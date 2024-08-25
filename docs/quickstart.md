@@ -25,7 +25,7 @@ keywords: [quickstart, start, install, vscode, jetbrains]
 
 4. Optional: put PearAI in your path so you can open within directories with `pearai .`
 
-   <img src="docs/img/pearai-path-dark.webp" alt="pearai path" width="400"/>
+   <img src="/docs/img/pearai-path-dark.webp" alt="pearai path" width="400"/>
 
 5. Try out the 2 core features below!
 
