@@ -12,7 +12,7 @@ keywords: [shortcuts, pearai, important shortcuts, pear ai shortcuts]
 | `CMD+SHIFT+L` | Append selected code             |
 | `CMD+;`       | Close chat panel                 |
 | `CMD+'`       | Switch models                    |
-| `CMD+[`       | Make chat bigger                 |
+| `CMD+\`       | Make chat bigger                 |
 | `CMD+0`       | Previously opened chat           |
 | `CMD+O`       | History                          |
 | `CMD+SHIFT+R` | Bring last terminal text to chat |
