@@ -14,7 +14,7 @@ keywords: [shortcuts, pearai, important shortcuts, pear ai shortcuts]
 | `CMD+'`       | Switch models                    |
 | `CMD+\`       | Make chat bigger                 |
 | `CMD+0`       | Previously opened chat           |
-| `CMD+O`       | History                          |
+| `CMD+H`       | History                          |
 | `CMD+SHIFT+R` | Bring last terminal text to chat |
 
 These shortcuts can be pressed again to toggle previous state.
