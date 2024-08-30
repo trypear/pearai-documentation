@@ -14,12 +14,16 @@ We welcome contributions from the community! Whether you're fixing a bug, improv
 
 **Please review our coding [Contributing Guide](https://github.com/trypear/pearai-app/blob/main/CONTRIBUTING.md) to set up your coding environment.** For any questions, join the [PearAI Discord](https://discord.gg/7QMraJUsQt)!
 
+For a complete onboarding to being a PearAI contributor, see this [onboarding presentation](https://docs.google.com/presentation/d/1zR9-7DTlb2PcsnapryZw8jHSkLTs9JxeXth4nyeemAQ/edit).
+
+For quick access to all links regarding PearAI, save this [Master Doc](https://docs.google.com/document/d/14jusGNbGRPT8X6GgEDbP1iab5q4X7_y-eFXK7Ky57IQ/edit#heading=h.4w42owbrw5n8).
+
 Curious about our stack?
 
-- PearAI is built with Electron.js
-- PearAI landing page is Next.js/React with Supabase auth (TailwindCSS + Shadcn)
-- PearAI backend is a Python Flask server with Supabase database
-- Logging/Telemetry is done with Axiom
+- PearAI is built with Electron.js.
+- PearAI landing page is Next.js/React with Supabase auth (TailwindCSS + Shadcn).
+- PearAI backend is a Python FastAPI server with Supabase database.
+- Logging/Telemetry is done with Axiom.
 
 ## Contributors
 
