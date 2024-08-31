@@ -6,16 +6,16 @@ keywords: [shortcuts, pearai, important shortcuts, pear ai shortcuts]
 
 # ⏩ Important shortcuts
 
-| Shortcut      | Action                           |
-| ------------- | -------------------------------- |
-| `CMD+L`       | New chat (with selected code)    |
-| `CMD+SHIFT+L` | Append selected code             |
-| `CMD+;`       | Close chat panel                 |
-| `CMD+'`       | Switch models                    |
-| `CMD+\`       | Make chat bigger                 |
-| `CMD+0`       | Previously opened chat           |
-| `CMD+H`       | History                          |
-| `CMD+SHIFT+R` | Bring last terminal text to chat |
+| Action                           | Mac      | Windows  |
+| -------------------------------- | -------- | -------- |
+| New chat (with selected code)    | `CMD+L`  | `CTRL+L` |
+| Append selected code             | `CMD+SHIFT+L` | `CTRL+SHIFT+L` |
+| Close chat panel                 | `CMD+;`  | `CTRL+;` |
+| Switch models                    | `CMD+'`  | `CTRL+'` |
+| Make chat bigger                 | `CMD+\`  | `CTRL+\` |
+| Previously opened chat           | `CMD+0`  | `CTRL+0` |
+| History                          | `CMD+H`  | `CTRL+H` |
+| Bring last terminal text to chat | `CMD+SHIFT+R` | `CTRL+SHIFT+R` |
 
 These shortcuts can be pressed again to toggle previous state.
 
