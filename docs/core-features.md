@@ -70,3 +70,26 @@ Quick terminal debug: Use `CMD+SHIFT+R` to add the last terminal text to your ch
           ```
 
       This flexibility enables you to create powerful and reusable custom commands tailored to your specific workflow needs.
+
+
+- **🛠️ Setting Up Tab Autocomplete in PearAI**
+
+        PearAI supports tab autocomplete, and this is how to set this up. Tab autocomplete predicts / suggests what you would type next as you’re coding!
+
+  This is the guide to do that:
+
+- **Setup Codestral**
+
+        We recommend using **Codestral**, a leading model for code completion (or Fill In Middle - FIM). It's open-source and highly efficient. To get started, you'll need to obtain a Codestral API key from the [Mistral API](https://console.mistral.ai "Mistral API")
+
+- **Add to PearAI config.json (Fill in “YOUR_API_KEY” with your API key.):**
+
+        ```json
+        "tabAutocompleteModel": {
+          "title": "Codestral",
+          "provider": "mistral",
+          "model": "codestral-latest",
+          "apiKey": "YOUR_API_KEY"
+        }
+
+- **Enjoy the development speed up with autocomplete!**
