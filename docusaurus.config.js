@@ -2,6 +2,8 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const { themes } = require("prism-react-renderer");
+require('dotenv').config();
+
 const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
 
@@ -136,12 +138,12 @@ const config = {
       },
       algolia: {
         // The application ID provided by Algolia
-        appId: "0OMUMCQZVV",
+        appId: process.env.ALGOLIA_APP_ID,
 
         // Public API key: it is safe to commit it
-        apiKey: "6795de0f612eebe17018f8061a9ef18e",
+        apiKey: process.env.ALGOLIA_API_KEY,
 
-        indexName: "pearai",
+        indexName: process.env.ALGOLIA_INDEX_NAME,
 
         // Optional: see doc section below
         contextualSearch: true,
