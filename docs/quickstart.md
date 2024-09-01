@@ -38,3 +38,7 @@ keywords: [quickstart, start, install, vscode, jetbrains]
          <source src="/docs/videos/cmd+l-documentation.webm" type="video/webm" />
          Your browser does not support the video tag.
       </video>
+
+   
+   
+   If you'd also like to have tab autocomplete feature within PearAI, follow [this](https://trypear.ai/docs/tab-autocomplete).
