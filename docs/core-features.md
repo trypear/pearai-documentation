@@ -70,3 +70,6 @@ Quick terminal debug: Use `CMD+SHIFT+R` to add the last terminal text to your ch
           ```
 
       This flexibility enables you to create powerful and reusable custom commands tailored to your specific workflow needs.
+
+      If you'd also like to have tab autocomplete feature within PearAI, follow [this](https://trypear.ai/docs/tab-autocomplete).
+
