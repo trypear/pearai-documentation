@@ -46,7 +46,7 @@ const config = {
         docs: {
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/trypear/pearai-app/tree/main/docs",
+          editUrl: "https://github.com/trypear/pearai-documentation/blob/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
