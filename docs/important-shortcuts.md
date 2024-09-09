@@ -10,9 +10,9 @@ keywords: [shortcuts, pearai, important shortcuts, pear ai shortcuts]
 | -------------------------------- | -------- | -------- |
 | New chat (with selected code)    | `CMD+L`  | `CTRL+L` |
 | Append selected code             | `CMD+SHIFT+L` | `CTRL+SHIFT+L` |
-| Close chat panel                 | `CMD+;`  | `CTRL+;` |
+| Open/Close chat panel            | `CMD+;`  | `CTRL+;` |
 | Switch models                    | `CMD+'`  | `CTRL+'` |
-| Make chat bigger                 | `CMD+\`  | `CTRL+\` |
+| Make chat bigger/smaller         | `CMD+\`  | `CTRL+\` |
 | Previously opened chat           | `CMD+0`  | `CTRL+0` |
 | History                          | `CMD+H`  | `CTRL+H` |
 | Bring last terminal text to chat | `CMD+SHIFT+R` | `CTRL+SHIFT+R` |
