@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "/docs/core-features"
+      "destination": "/docs/index"
     }
   ]
 }
