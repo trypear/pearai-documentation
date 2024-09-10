@@ -27,8 +27,12 @@ PearAI supports tab autocomplete, which predicts and suggests what you would typ
      "apiKey": "YOUR_API_KEY"
    }
 
+   ```
+
 3. **Enjoy the development speed up with autocomplete!**
 
+## Alternative
 
+- You can also use [Supermaven](https://supermaven.com/) for tab autocomplete. It is currently one of the best autocomplete AI on the market, and provides a free tier. You can get started by installing Supermaven directly as an extension within PearAI.
 
-
+  ![Supermaven extension](../static/img/supermaven.png)
