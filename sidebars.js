@@ -15,6 +15,17 @@
 const sidebars = {
   docsSidebar: [
     "index",
+    {
+      type: "category", 
+      label: "🚀 Setup", 
+      items: [
+        "overview",
+        "configuration",
+        "model-providers",
+        "select-models"
+
+      ]
+    },
     "quickstart",
     "demos",
     "important-shortcuts",
