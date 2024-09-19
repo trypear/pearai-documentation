@@ -14,16 +14,23 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   docsSidebar: [
-    "index",
+    "index",   
     {
-      type: "category", 
-      label: "🚀 Setup", 
-      items: [
+      "type": "category",
+      "label": "🖥️ Getting Started",
+      "items": [
+      "install",
+      "preview",
+      ],
+    },
+    {
+      "type": "category",
+      "label": "🚀 Setup",
+      "items": [
         "overview",
         "configuration",
         "model-providers",
         "select-models"
-
       ]
     },
     "quickstart",

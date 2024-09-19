@@ -6,12 +6,12 @@ keywords: [setup, start, install, vscode, jetbrains, overview]
 
 # Overview
 
-PearAI is an Open Source AI-Powered code Editor
+PearAI is an Open Source AI-Powered code Editor that can be deeply customized. This is primarily accomplished by clicking in the ```Settings icon ```editing a local file located at ```~/pearai/config.json``` (MacOS / Linux) or ```%USERPROFILE%\.pearai\config.json``` (Windows). config.json is created the first time you use PearAI.
 
 ## Quick Start
 
 - When you first install PearAI, Open the app and the chat window should appear on the right side (might load for a brief period on the first time).
-- Select PearAI server and log in.
+- Select PearAI server and log in. 
 
 ## Choosing Your Models
 
