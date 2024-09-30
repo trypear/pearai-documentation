@@ -28,7 +28,7 @@ Curious about our stack?
 ## Contributors
 
 Thanks to these wonderful people, and more, who have contributed to this project:
-
+- [Vedant Achharya](https://github.com/PHANTOMGOD2OP)
 - [nang-dev](https://github.com/nang-dev)
 - [Fryingpannn](https://github.com/Fryingpannn)
 - [ItWasEnder](https://github.com/ItWasEnder)
