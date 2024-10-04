@@ -76,11 +76,7 @@ The Intern lets new users PearAI directly, and use our free trial, or your own A
 
 # Custom Commands
 
-The Intern lets new users PearAI directly, and use our free trial, or your own API key
 
-- Free requests out of the box, no credit card required.
-- Use our free trial, your own API key, or local models.
-- Join our Community Discord server.
 
 ### Configuration (`config.json`)
 
@@ -98,56 +94,10 @@ The Intern lets new users PearAI directly, and use our free trial, or your own A
 
 # Context Providers
 
-The Intern lets new users PearAI directly, and use our free trial, or your own API key
+Learn more about using and modifying PearAI's [Context Providers](/codebase-context)
 
-- Free requests out of the box, no credit card required.
-- Use our free trial, your own API key, or local models.
-- Join our Community Discord server.
-
-### Configuration (`config.json`)
-
-```json
-{
-  "contextProviders": [
-    {
-      "name": "code",
-      "params": {}
-    },
-    {
-      "name": "docs",
-      "params": {}
-    },
-    {
-      "name": "diff",
-      "params": {}
-    },
-    {
-      "name": "terminal",
-      "params": {}
-    },
-    {
-      "name": "problems",
-      "params": {}
-    },
-    {
-      "name": "folder",
-      "params": {}
-    },
-    {
-      "name": "codebase",
-      "params": {}
-    }
-  ]
-}
-```
 
 # Slash Commands
-
-The Intern lets new users PearAI directly, and use our free trial, or your own API key
-
-- Free requests out of the box, no credit card required.
-- Use our free trial, your own API key, or local models.
-- Join our Community Discord server.
 
 ### Configuration (`config.json`)
 

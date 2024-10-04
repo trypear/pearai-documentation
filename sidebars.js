@@ -29,6 +29,7 @@ const sidebars = {
       "items": [
         "overview",
         "configuration",
+        "context-providers",
         "model-providers",
         "select-models"
       ]

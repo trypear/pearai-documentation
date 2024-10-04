@@ -1,7 +1,7 @@
 ---
 title: Preview
-description: Setting up PearAI
-keywords: [setup, start, install, vscode, jetbrains]
+description: Preview fpr PearAI
+keywords: [setup, start, install, vscode, features]
 ---
 
 import Tabs from "@theme/Tabs";
@@ -10,7 +10,7 @@ import Admonition from "@theme/Admonition";
 
 # Explore PearAI Features
 
-To quickly understand what you can do with Continue, check out each tab below.
+To quickly understand what you can do with PearAI, check out each tab below.
 
 <Tabs>
   <TabItem value="chat" label="Chat">
@@ -41,19 +41,6 @@ To quickly understand what you can do with Continue, check out each tab below.
 
   </TabItem>
   
-  <TabItem value="autocomplete" label="Tab Autocomplete">
-    [Tab Autocomplete](/tab-autocomplete) provides inline code suggestions as you type.
-
-    <video width="800" controls>
-      <source src="/docs/videos/cmd+i-documentation.webm" type="video/webm" />
-      Your browser does not support the video tag.
-    </video>
-
-    <Admonition type="info" title="Learn more" icon="📚">
-      Learn more about [Tab Autocomplete](/tab-autocomplete)
-    </Admonition>
-
-  </TabItem>
   
   <TabItem value="cases" label="Use Cases">
     These [Use Case](/common-use-cases) prcovide ways to modify code without leaving your IDE.
