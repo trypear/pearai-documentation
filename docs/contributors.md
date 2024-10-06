@@ -27,45 +27,4 @@ Curious about our stack?
 
 ## Contributors
 
-Thanks to these wonderful people, and more, who have contributed to this project:
-
-- [nang-dev](https://github.com/nang-dev)
-- [Fryingpannn](https://github.com/Fryingpannn)
-- [ItWasEnder](https://github.com/ItWasEnder)
-- [Ellahinator](https://github.com/Ellahinator)
-- [akash3444](https://github.com/akash3444)
-- [Himanshu-Singh-Chauhan](https://github.com/Himanshu-Singh-Chauhan)
-- [gedeondoescode](https://github.com/gedeondoescode)
-- [shrix1](https://github.com/shrix1)
-- [MaySoMusician](https://github.com/MaySoMusician)
-- [cqdev-co](https://github.com/cqdev-co)
-- [ICEPrey](https://github.com/ICEPrey)
-- [Trifall](https://github.com/Trifall)
-- [strawberrywz](https://github.com/strawberrywz)
-- [jspEclipse](https://github.com/jspEclipse)
-- [Zhethan](https://github.com/Zhethan)
-- [Mex777](https://github.com/Mex777)
-- [SHADOW-LIGHTS](https://github.com/SHADOW-LIGHTS)
-- [dscreet](https://github.com/dscreet)
-- [Ibinola](https://github.com/Ibinola)
-- [jarrensj](https://github.com/jarrensj)
-- [timknappe](https://github.com/timknappe)
-- [ImBIOS](https://github.com/ImBIOS)
-- [benleembruggen](https://github.com/benleembruggen)
-- [bandarussr](https://github.com/bandarussr)
-- [cwclancy](https://github.com/cwclancy)
-- [happinyz](https://github.com/happinyz)
-- [jwhitt3r](https://github.com/jwhitt3r)
-- [veerbia](https://github.com/veerbia)
-- [Alexx1105](https://github.com/Alexx1105)
-- [aura0003](https://github.com/aura0003)
-- [Dmedina20](https://github.com/Dmedina20)
-- [Failure-Tech](https://github.com/Failure-Tech)
-- [nicolas-giannantonio](https://github.com/nicolas-giannantonio)
-- [tanishq-xin](https://github.com/tanishq-xin)
-- [tomasohCHOM](https://github.com/tomasohCHOM)
-- [Justain-Train](https://github.com/Justain-Train)
-- [anisharaz](https://github.com/anisharaz)
-- [sea-lene](https://github.com/sea-lene)
-
-Feel free to join them and contribute!
+Thanks to this [list](https://github.com/trypear/pearai-app?tab=readme-ov-file#acknowledgements) of wonderful people who've contributed to PearAI!
