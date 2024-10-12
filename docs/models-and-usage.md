@@ -1,5 +1,5 @@
 ---
-title: 🚀 Models and Usage
+title: 🚀 Models & Usage
 description: PearAI Tips for Models & Usage
 keywords: [pearai, models, usage, tips, recommendations]
 ---
