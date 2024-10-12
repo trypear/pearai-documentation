@@ -31,8 +31,22 @@ PearAI supports tab autocomplete, which predicts and suggests what you would typ
 
 3. **Enjoy the development speed up with autocomplete!**
 
-## Alternative
+## Alternatives
 
-- You can also use [Supermaven](https://supermaven.com/) for tab autocomplete. It is currently one of the best autocomplete AI on the market, and provides a free tier. You can get started by installing Supermaven directly as an extension within PearAI.
-
+- You can use [Supermaven](https://supermaven.com/) for tab autocomplete. It is currently one of the best autocomplete AI on the market, and provides a free tier. You can get started by installing Supermaven directly as an extension within PearAI.
+  
   ![Supermaven extension](../static/img/supermaven.png)
+
+- Also, you can use [Ollama](https://ollama.ai/) local models.  Download the model that you want and add it to your config.json file. Examples:
+
+  ```json
+  "tabAutocompleteModel": {
+      "title": "Codegemma",
+      "provider": "ollama",
+      "model": "codegemma:2b"
+   },
+   {
+      "title": "StarCoder2",
+      "provider": "ollama",
+      "model": "starcoder2:latest"
+   }
