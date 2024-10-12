@@ -19,6 +19,7 @@ const sidebars = {
     "demos",
     "important-shortcuts",
     "tab-autocomplete",
+    "models-and-usage",
     "codebase-context",
     "common-use-cases",
     {

@@ -4,7 +4,7 @@ description: PearAI Tips for Models & Usage
 keywords: [pearai, models, usage, tips, recommendations]
 ---
 
-# 🚀 About Pear AI Models & Usage
+# 🚀 Models & Usage
 
 Pear AI is designed to give you a flexible and powerful AI experience. You can even choose the model that best suits your needs! We offer a wide range of options, including:
 
