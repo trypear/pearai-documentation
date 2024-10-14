@@ -16,10 +16,12 @@ keywords: [quickstart, start, install, vscode, jetbrains]
 
    :::
 
-   <video width="400" controls>
+  <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', marginBottom: '1rem' }}>
+   <video style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }} controls>
       <source src="/docs/videos/pearai-onboard-login.webm" type="video/webm" />
       Your browser does not support the video tag.
    </video>
+  </div>
 
 3. Optional: put PearAI in your path so you can open within directories with `pearai .`
 
@@ -28,16 +30,21 @@ keywords: [quickstart, start, install, vscode, jetbrains]
 4. You're now ready to start prompting! Try out the 2 core features below:
 
    1. `CMD+I` (Inline code editing)
-      <video width="400" controls>
-         <source src="/docs/videos/cmd+i-documentation.webm" type="video/webm" />
-         Your browser does not support the video tag.
-      </video>
+
+   <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', marginBottom: '1rem' }}>
+   <video style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }} controls>
+      <source src="/docs/videos/cmd+i-documentation.webm" type="video/webm" />
+      Your browser does not support the video tag.
+   </video>
+   </div>
 
    2. `CMD+L` (PearAI chat)
-      <video width="400" controls>
-         <source src="/docs/videos/cmd+l-documentation.webm" type="video/webm" />
-         Your browser does not support the video tag.
-      </video>
+   <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', marginBottom: '1rem' }}>
+   <video style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }} controls>
+      <source src="/docs/videos/cmd+l-documentation.webm" type="video/webm" />
+      Your browser does not support the video tag.
+   </video>
+   </div>
 
    
    
