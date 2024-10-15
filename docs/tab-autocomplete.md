@@ -33,11 +33,11 @@ PearAI supports tab autocomplete, which predicts and suggests what you would typ
 
 ## Alternatives
 
-- You can use [Supermaven](https://supermaven.com/) for tab autocomplete. It is currently one of the best autocomplete AI on the market, and provides a free tier. You can get started by installing Supermaven directly as an extension within PearAI.
-  
+- You can enhance your tab autocomplete with [Supermaven](https://supermaven.com/). It is currently one of the best autocomplete AI on the market, and provides a free tier. You can get started by installing Supermaven directly as an extension within PearAI.
+
   ![Supermaven extension](../static/img/supermaven.png)
 
-- Also, you can use [Ollama](https://ollama.ai/) local models.  Download the model that you want to use and add it to your configuration. Example:
+- Additionally, you can use [Ollama](https://ollama.ai/) local models by downloading the desired model and adding it to your configuration.
 
   ```json
   "tabAutocompleteModel": {
@@ -55,3 +55,4 @@ PearAI supports tab autocomplete, which predicts and suggests what you would typ
       "provider": "ollama",
       "model": "qwen2.5-coder:1.5b"
     }
+  ```
