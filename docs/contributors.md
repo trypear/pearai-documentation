@@ -14,7 +14,7 @@ We welcome contributions from the community! Whether you're fixing a bug, improv
 
 **Please review our coding [Contributing Guide](https://github.com/trypear/pearai-app/blob/main/CONTRIBUTING.md) to set up your coding environment.** For any questions, join the [PearAI Discord](https://discord.gg/7QMraJUsQt)!
 
-### Download the Development Version of PearAI
+### For Mac users: Download the Development Version of PearAI
 
 To run PearAI in development mode, you need to download the unnotarized version of the app since the notarized version cannot run in debug mode.
 
