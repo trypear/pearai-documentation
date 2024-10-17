@@ -14,6 +14,13 @@ We welcome contributions from the community! Whether you're fixing a bug, improv
 
 **Please review our coding [Contributing Guide](https://github.com/trypear/pearai-app/blob/main/CONTRIBUTING.md) to set up your coding environment.** For any questions, join the [PearAI Discord](https://discord.gg/7QMraJUsQt)!
 
+### For Mac users: Download the Development Version of PearAI
+
+To run PearAI in development mode, you need to download the unnotarized version of the app since the notarized version cannot run in debug mode.
+
+[**Download Development Version of PearAI**](https://drive.google.com/drive/u/0/folders/1lxKEZG2iqee7L5PCPLwCSjcmQhDknJCW)
+
+
 For a complete onboarding to being a PearAI contributor, see this [onboarding presentation](https://docs.google.com/presentation/d/1zR9-7DTlb2PcsnapryZw8jHSkLTs9JxeXth4nyeemAQ/edit).
 
 For quick access to all links regarding PearAI, save this [Master Doc](https://docs.google.com/document/d/14jusGNbGRPT8X6GgEDbP1iab5q4X7_y-eFXK7Ky57IQ/edit#heading=h.4w42owbrw5n8).
@@ -27,45 +34,4 @@ Curious about our stack?
 
 ## Contributors
 
-Thanks to these wonderful people, and more, who have contributed to this project:
-
-- [nang-dev](https://github.com/nang-dev)
-- [Fryingpannn](https://github.com/Fryingpannn)
-- [ItWasEnder](https://github.com/ItWasEnder)
-- [Ellahinator](https://github.com/Ellahinator)
-- [akash3444](https://github.com/akash3444)
-- [Himanshu-Singh-Chauhan](https://github.com/Himanshu-Singh-Chauhan)
-- [gedeondoescode](https://github.com/gedeondoescode)
-- [shrix1](https://github.com/shrix1)
-- [MaySoMusician](https://github.com/MaySoMusician)
-- [cqdev-co](https://github.com/cqdev-co)
-- [ICEPrey](https://github.com/ICEPrey)
-- [Trifall](https://github.com/Trifall)
-- [strawberrywz](https://github.com/strawberrywz)
-- [jspEclipse](https://github.com/jspEclipse)
-- [Zhethan](https://github.com/Zhethan)
-- [Mex777](https://github.com/Mex777)
-- [SHADOW-LIGHTS](https://github.com/SHADOW-LIGHTS)
-- [dscreet](https://github.com/dscreet)
-- [Ibinola](https://github.com/Ibinola)
-- [jarrensj](https://github.com/jarrensj)
-- [timknappe](https://github.com/timknappe)
-- [ImBIOS](https://github.com/ImBIOS)
-- [benleembruggen](https://github.com/benleembruggen)
-- [bandarussr](https://github.com/bandarussr)
-- [cwclancy](https://github.com/cwclancy)
-- [happinyz](https://github.com/happinyz)
-- [jwhitt3r](https://github.com/jwhitt3r)
-- [veerbia](https://github.com/veerbia)
-- [Alexx1105](https://github.com/Alexx1105)
-- [aura0003](https://github.com/aura0003)
-- [Dmedina20](https://github.com/Dmedina20)
-- [Failure-Tech](https://github.com/Failure-Tech)
-- [nicolas-giannantonio](https://github.com/nicolas-giannantonio)
-- [tanishq-xin](https://github.com/tanishq-xin)
-- [tomasohCHOM](https://github.com/tomasohCHOM)
-- [Justain-Train](https://github.com/Justain-Train)
-- [anisharaz](https://github.com/anisharaz)
-- [sea-lene](https://github.com/sea-lene)
-
-Feel free to join them and contribute!
+Thanks to this [list](https://github.com/trypear/pearai-app?tab=readme-ov-file#acknowledgements) of wonderful people who've contributed to PearAI!
