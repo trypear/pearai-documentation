@@ -17,7 +17,7 @@ const sidebars = {
     "index",   
     "quickstart",
     "demos",
-    "context-providers",
+    "at-commands",
     "important-shortcuts",
     "tab-autocomplete",
     "codebase-context",
