@@ -20,6 +20,7 @@ const sidebars = {
     "at-commands",
     "important-shortcuts",
     "tab-autocomplete",
+    "models-and-usage",
     "codebase-context",
     "common-use-cases",
     {

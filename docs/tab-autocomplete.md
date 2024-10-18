@@ -13,7 +13,7 @@ PearAI supports tab autocomplete, which predicts and suggests what you would typ
 
 1. **Setup Codestral**
 
-   We recommend using Codestral, the leading model for code completion (or FIM — Fill In Middle). It's also open-sourced! You'll need to obtain a Codestral API key from [Mistral API](https://console.mistral.ai).
+   We recommend using [Codestral](https://mistral.ai/news/codestral/), the leading model for code completion (or FIM — Fill In Middle). It's also open-sourced! You'll need to obtain a Codestral API key from [Mistral API](https://console.mistral.ai).
 
 2. **Add to PearAI config.json**
 
