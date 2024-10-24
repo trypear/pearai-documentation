@@ -11,9 +11,18 @@ PearAI supports tab autocomplete, which predicts and suggests what you would typ
 
 ## Setup Guide
 
+
+[Supermaven](https://supermaven.com/) is currently one of the best and fastest code autocomplete AI on the market, and provides a generous free tier. Simply install Supermaven directly as an extension within PearAI.
+
+  ![Supermaven extension](../static/img/supermaven.png)
+
+We are currently working on hosting our own model for code autocompletion. Stay tuned!
+
+## Alternative
+
 1. **Setup Codestral**
 
-   We recommend using Codestral, the leading model for code completion (or FIM — Fill In Middle). It's also open-sourced! You'll need to obtain a Codestral API key from [Mistral API](https://console.mistral.ai).
+   We recommend using [Codestral](https://mistral.ai/news/codestral/), the leading model for code completion (or FIM — Fill In Middle). It's also open-sourced! You'll need to obtain a Codestral API key from [Mistral API](https://console.mistral.ai).
 
 2. **Add to PearAI config.json**
 
@@ -28,11 +37,4 @@ PearAI supports tab autocomplete, which predicts and suggests what you would typ
    }
 
    ```
-
 3. **Enjoy the development speed up with autocomplete!**
-
-## Alternative
-
-- You can also use [Supermaven](https://supermaven.com/) for tab autocomplete. It is currently one of the best autocomplete AI on the market, and provides a free tier. You can get started by installing Supermaven directly as an extension within PearAI.
-
-  ![Supermaven extension](../static/img/supermaven.png)
