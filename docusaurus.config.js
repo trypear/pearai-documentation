@@ -2,7 +2,7 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const { themes } = require("prism-react-renderer");
-require('dotenv').config();
+require("dotenv").config();
 
 const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
@@ -18,7 +18,7 @@ const config = {
   url: "https://trypear.ai",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: process.env.BASE_URL || '/',
+  baseUrl: process.env.BASE_URL || "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -47,6 +47,9 @@ const config = {
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl: "https://github.com/trypear/pearai-documentation/blob/main/",
+          remarkPlugins: [], // Add this
+          rehypePlugins: [], // Add this
+          mdxPageComponent: "@theme/MDXPage",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -57,7 +60,6 @@ const config = {
       }),
     ],
   ],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
