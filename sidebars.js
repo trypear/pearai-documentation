@@ -14,9 +14,10 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   docsSidebar: [
-    "index",
+    "index",   
     "quickstart",
     "demos",
+    "at-commands",
     "important-shortcuts",
     "tab-autocomplete",
     "models-and-usage",
