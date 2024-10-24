@@ -30,9 +30,9 @@ We understand that usage limits can sometimes be a bit confusing. We're always s
 ### PearAI server
 - Claude 3.5 Sonnet latest
 - Claude 3 Haiku
-- GPT4o latest
-- GPT4o Mini (currently annual subscribers only)
-- GPT4o Preview (currently annual subscribers only) (high cost)
+- GPT-4o latest
+- OpenAI o1-mini (currently for annual subscribers only) 
+- OpenAI o1-preview (currently for annual subscribers only) (high cost)
 - Gemini 1.5 Pro
 
 ### Bring your own API key / local
