@@ -6,7 +6,7 @@ keywords: [pearai, models, usage, tips, recommendations]
 
 # 🚀 Usage Costs & Available Models
 
-## What are the usage costs?
+## What are the usage costs? (PearAI Server only)
 
 PearAI's usage cost is measured in credits. The amount of credits used depends on the size of your input prompts, ouput responses, model used, and AI tool used (PearAI Chat, PearAI Search, PearAI Creator, etc.).
 
