@@ -30,7 +30,7 @@ Curious about our stack?
 
 To run PearAI in development mode, you need to download the unnotarized version of the app since the notarized version cannot run in debug mode.
 
-[**Download Development Version of PearAI Here**](https://drive.google.com/drive/u/0/folders/1lxKEZG2iqee7L5PCPLwCSjcmQhDknJCW)
+[**Download Development Version of PearAI Here**](https://drive.google.com/drive/u/0/folders/1a1x8KchIlX67PHbUqbznl0tZmx8YC8vB)
 
 ## Contributors
 
