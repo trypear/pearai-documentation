@@ -8,8 +8,9 @@ The reason we need a separate repository is because when included in the landing
 ## How to run
 
 1. Fork repository and clone
-2. `npm install`
-3. `npm run build`
-4. `npm run serve`
+2. Make a .env file in the root directory and copy over contents from .env.example
+3. `npm install`
+4. `npm run build`
+5. `npm run serve`
 
 To run it with hot reload: `npm run start`
