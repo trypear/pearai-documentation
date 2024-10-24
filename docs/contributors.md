@@ -14,12 +14,6 @@ We welcome contributions from the community! Whether you're fixing a bug, improv
 
 **Please review our coding [Contributing Guide](https://github.com/trypear/pearai-app/blob/main/CONTRIBUTING.md) to set up your coding environment.** For any questions, join the [PearAI Discord](https://discord.gg/7QMraJUsQt)!
 
-### For Mac users: Download the Development Version of PearAI
-
-To run PearAI in development mode, you need to download the unnotarized version of the app since the notarized version cannot run in debug mode.
-
-[**Download Development Version of PearAI**](https://drive.google.com/drive/u/0/folders/1lxKEZG2iqee7L5PCPLwCSjcmQhDknJCW)
-
 
 For a complete onboarding to being a PearAI contributor, see this [onboarding presentation](https://docs.google.com/presentation/d/1zR9-7DTlb2PcsnapryZw8jHSkLTs9JxeXth4nyeemAQ/edit).
 
@@ -31,6 +25,12 @@ Curious about our stack?
 - PearAI landing page is Next.js/React with Supabase auth (TailwindCSS + Shadcn).
 - PearAI backend is a Python FastAPI server with Supabase database.
 - Logging/Telemetry is done with Axiom.
+
+## For Mac users: Download the Development Version of PearAI
+
+To run PearAI in development mode, you need to download the unnotarized version of the app since the notarized version cannot run in debug mode.
+
+[**Download Development Version of PearAI Here**](https://drive.google.com/drive/u/0/folders/1lxKEZG2iqee7L5PCPLwCSjcmQhDknJCW)
 
 ## Contributors
 
