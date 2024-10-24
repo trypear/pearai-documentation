@@ -1,10 +1,10 @@
 ---
-title: 🚀 Available Models & Usage Costs
-description: PearAI Tips for Models & Usage
+title: 🚀 Costs & Available Models
+description: PearAI Tips Usage Costs and Available Models
 keywords: [pearai, models, usage, tips, recommendations]
 ---
 
-# 🚀 Available Models & Usage Costs
+# 🚀 Usage Costs & Available Models
 
 ## What are the usage costs?
 
