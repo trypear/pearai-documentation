@@ -1,10 +1,10 @@
 ---
-title: 🗃️ @ Commands
+title: 🗃️ "@" Commands
 description: Context Providrrs for PearAI
 keywords: [setup, install, context, providers, model]
 ---
 
-# 🗃️ `@` Commands
+# 🗃️ "`@`" Commands
 
 ## How it works
 

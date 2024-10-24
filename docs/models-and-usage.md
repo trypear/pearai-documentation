@@ -14,7 +14,7 @@ As an early access benefit, current subscribers will be grandfathered into our e
 
 > Keep in mind that longer messages and larger files use up more of your credits. Similarly, long conversations will consume your limit faster as each previous message is sent as context. It is recommended to start new chats often. By being more specific in your prompts, you will not only save more credits, but also have more precise results, as the AI will have less irrelevant data to parse through.
 
-If you're a subscriber and you hit your monthly limit, you can top up for more credits in your dashboard.
+If you're a subscriber and you hit your monthly limit, you can easily top up for more credits in your dashboard, which never expire.
 
 ## How can I maximize my PearAI usage?
 
