@@ -12,7 +12,7 @@ We welcome contributions from the community! Whether you're fixing a bug, improv
 - Outside of dedicated Quests, we also have a bunch of issues ([good first ones](https://github.com/trypear/pearai-app/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)) which are free to tackle. Make sure to leave a comment indicating you're working on it (check for existing comments also). You can raise a PR anytime and we usually review them pretty quickly. Feel free to also contribute improvements outside of existing issues.
 - We have a lot on our plate so it's easy for us to miss something. The best way to get our attention is to ping us directly in our Discord server.
 
-**Please review our coding [Contributing Guide](https://github.com/trypear/pearai-app/blob/main/CONTRIBUTING.md) to set up your coding environment.** For any questions, join the [PearAI Discord](https://discord.gg/7QMraJUsQt)!
+**Please review our coding [Contributing Guide](https://github.com/trypear/pearai-app/blob/main/CONTRIBUTING.md) to set up your coding environment. If you prefer a video, you can check out this [tutorial](https://www.youtube.com/watch?v=uLrOlq6WSJo&ab_channel=FryingPanLIVE) for how to setup the pearai-app repository and run the app locally.** For any questions, join the [PearAI Discord](https://discord.gg/7QMraJUsQt)!
 
 
 For a complete onboarding to being a PearAI contributor, see this [onboarding presentation](https://docs.google.com/presentation/d/1zR9-7DTlb2PcsnapryZw8jHSkLTs9JxeXth4nyeemAQ/edit).
