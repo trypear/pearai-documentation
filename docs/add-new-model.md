@@ -39,7 +39,7 @@ Follow these steps to integrate models like Ollama and OpenRouter into PearAI.
 3. Then choose **Ollama**.
    ![Select Ollama](../static/img/select-ollama.png)
 
-4. #### Follow the on-screen instructions to complete the setup
+4. **Follow the on-screen instructions to complete the setup**
 
 ---
 
@@ -60,4 +60,4 @@ Follow these steps to integrate models like Ollama and OpenRouter into PearAI.
 3. Then choose **OpenRouter**.
    ![Select OpenRouter](../static/img/select-openrouter.png)
 
-4. Follow the on-screen instructions to complete the setup.
+4. **Follow the on-screen instructions to complete the setup**
