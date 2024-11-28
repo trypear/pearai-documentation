@@ -29,10 +29,10 @@ We understand that usage limits can sometimes be a bit confusing. We're always s
 ## Available models
 ### PearAI server
 - Claude 3.5 Sonnet latest
-- Claude 3 Haiku
+- Claude 3.5 Haiku (unlimited, and automatically switched to once user reaches their monthly limit)
 - GPT-4o latest
-- OpenAI o1-mini (currently for annual subscribers only) 
-- OpenAI o1-preview (currently for annual subscribers only) (high cost)
+- OpenAI o1-mini
+- OpenAI o1-preview
 - Gemini 1.5 Pro
 
 ### Bring your own API key / local
