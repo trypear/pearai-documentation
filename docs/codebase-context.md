@@ -35,7 +35,7 @@ Here are use cases where it is not useful:
 
 ## Ignore files during indexing
 
-PearAI respects `.gitignore` files in order to determine which files should not be indexed.
+Files/paths within `.gitignore` will not be indexed. If you want to ignore a file that you don't want in .`.gitignore`, you can create a new file called `.pearaiignore` and include them there.
 
 If you want to see exactly what files PearAI has indexed, the metadata is stored in `~/.pearai/index/index.sqlite`. You can use a tool like [DB Browser for SQLite](https://sqlitebrowser.org/) to view the `tag_catalog` table within this file.
 
