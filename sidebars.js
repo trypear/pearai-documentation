@@ -26,7 +26,7 @@ const sidebars = {
     "common-use-cases",
     {
       type: 'category',
-      label: '🔗 Integrations',
+      label: '🔗 AI Tools',
       items: ['integrations/memory'],
     },
     {
