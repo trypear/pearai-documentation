@@ -21,6 +21,8 @@ const sidebars = {
     "add-new-model",
     "important-shortcuts",
     "tab-autocomplete",
+    "pearai-inventory",
+    "pearai-creator",
     "models-and-usage",
     "codebase-context",
     "common-use-cases",
