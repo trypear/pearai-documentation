@@ -25,6 +25,11 @@ const sidebars = {
     "codebase-context",
     "common-use-cases",
     {
+      type: 'category',
+      label: '🔗 AI Tools',
+      items: ['integrations/memory'],
+    },
+    {
       type: "link",
       label: "📝 Changelog",
       href: "https://trypear.ai/changelog",
