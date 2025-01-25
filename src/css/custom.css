@@ -34,3 +34,75 @@
 .navbar__logo {
   margin-right: 0;
 }
+/* Footer container: Add padding to the entire footer */
+.footer {
+  padding: 2rem 4rem; /* Add padding to the top/bottom and left/right */
+}
+
+/* Footer links container: Add padding between columns and edges */
+.footer__links {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem; /* Space between the columns */
+  padding: 0 1rem; /* Horizontal padding inside the footer links container */
+}
+
+/* Footer link columns */
+.footer__link-column {
+  flex: 1;
+  padding: 0 1rem; /* Horizontal padding for each column */
+}
+
+/* Align 'Follow Us' column to the right */
+.footer__link-column:nth-child(2) {
+  margin-left: auto;
+  text-align: right;
+}
+
+/* Style the footer links */
+.footer__link-column ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.footer__link-column li {
+  margin-bottom: 0.5rem;
+}
+
+/* Style for the footer copyright */
+.footer__copyright {
+  text-align: center;
+  padding-top: 1rem;
+  margin-top: 2rem; /* Space between copyright and links */
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  /* Make the footer sections stack vertically */
+  .footer__links {
+    flex-direction: column; /* Stack columns vertically */
+    align-items: flex-start; /* Align them to the left */
+    gap: 1rem; /* Reduced gap between sections */
+  }
+
+  /* Remove any extra padding from individual columns on mobile */
+  .footer__link-column {
+    padding: 0; /* Remove padding for better mobile layout */
+  }
+
+  /* Ensure the 'Follow Us' section aligns to the left on small screens */
+  .footer__link-column:nth-child(2) {
+    margin-left: 0;
+    text-align: left;
+  }
+
+  /* Adjust the overall padding of the footer on mobile */
+  .footer {
+    padding: 1.5rem 2rem; /* Reduced padding for mobile */
+  }
+
+  /* Make the footer copyright more readable on smaller screens */
+  .footer__copyright {
+    font-size: 0.9rem; /* Slightly smaller text size for copyright */
+  }
+}
