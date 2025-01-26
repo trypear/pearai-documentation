@@ -116,7 +116,7 @@ const config = {
             ],
           },
           {
-            title: "Followww Us",
+            title: "Follow Us",
             items: [
               {
                 label: "Twitter",
