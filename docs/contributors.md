@@ -8,6 +8,8 @@ keywords: [contributors]
 
 We welcome contributions from the community! Whether you're fixing a bug, improving the documentation, or adding a new feature, we appreciate your help in making PearAI better. There is a lot of context involved and we understand it can be overwhelming when first trying to join the project. Here is a quick summary of key information and how we currently work together:
 
+- Our main repo is [PearAI Master](https://github.com/trypear/pearai-master)
+
 - Pan and Nang conduct "Quests", which are 1-3 weeks sprints. We will pick out the current highest priority issues for these quests, ping everyone in our [Discord](https://discord.gg/7QMraJUsQt), and ask for applications to participate in them. The chosen people will help finish the tasks alongside us, participating in calls and working together. If help is needed, we may add more people to the quest.
 - Outside of dedicated Quests, we also have a bunch of issues ([good first ones](https://github.com/trypear/pearai-app/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)) which are free to tackle. Make sure to leave a comment indicating you're working on it (check for existing comments also). You can raise a PR anytime and we usually review them pretty quickly. Feel free to also contribute improvements outside of existing issues.
 - We have a lot on our plate so it's easy for us to miss something. The best way to get our attention is to ping us directly in our Discord server.
@@ -30,7 +32,7 @@ Curious about our stack?
 
 To run PearAI in development mode, you need to download the unnotarized version of the app since the notarized version cannot run in debug mode.
 
-[**Download Development Version of PearAI Here**](https://drive.google.com/drive/u/0/folders/1a1x8KchIlX67PHbUqbznl0tZmx8YC8vB)
+[**Download Development Version of PearAI Here**](https://drive.google.com/drive/u/0/folders/13Tnz9cL7AAUuB_eyc5n-4wJQmhN3mPWt)
 
 ## Contributors
 
